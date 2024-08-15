@@ -1,8 +1,8 @@
 {
-  "name": "FrediAdamsmd@1.3.1",
+  "name": "FrediMdsmd@1.3.1",
   "description": "I am Fredi-Adams-md Whatsapp Chuddy Buddy built in NodeJs to m https://www.youtube.com/@freeonlinetvT1",
-  "logo": "https://telegra.ph/file/fbb916db221d317cb8c44.jpg",ake experience better\n\t if Any Problem : https://www.youtube.com/@freeonlinetvT1",
-  "logo": "https://telegra.ph/file/fbb916db221d317cb8c44.jpg",
+  "logo": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg",ake experience better\n\t if Any Problem : https://www.youtube.com/@freeonlinetvT1",
+  "logo": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -28,12 +28,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "FREDI-ADAMS-𝗠𝗗"
+      "value": "FREDI_𝗠𝗗"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fbb916db221d317cb8c44.jpg,https://telegra.ph/file/e5319d5a968ab7759cefd.mp4"
+      "value": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg,https://telegra.ph/file/e5319d5a968ab7759cefd.mp4"
     }, 
     "TZ": 
       "description": "put TIME_ZONE according to your location",
@@ -101,7 +101,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255620814108, 255766352895, 255764182801"
+      "value": "255620814108, 255766352895, 255764182801,255752593977"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
