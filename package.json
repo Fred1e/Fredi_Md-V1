@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Fred1e/FREDI_MD.git"
+      "url": "git+https://github.com/SuhailTechInfo/suhail-md.git"
    },
-   "bugs": { "url": "https://github.com/Fred1e/FREDI_MD/issues" },
-   "homepage": "https://github.com/Fred1e/FREDI_MD#readme"
+   "bugs": { "url": "https://github.com/SuhailTechInfo/suhail-md/issues" },
+   "homepage": "https://github.com/SuhailTechInfo/suhail-md#readme"
 }
