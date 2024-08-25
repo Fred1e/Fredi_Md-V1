@@ -6,8 +6,8 @@
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start . --deep-monitoring --attach --name Fredie || node .",
-            "start": "pm2 start . --attach --name Fredi",
-            "stop": "pm2 stop Fredi"
+            "start": "pm2 start . --attach --name Suhail",
+            "stop": "pm2 stop Suhail"
    },
    "author": "Fredietech",
    "license" :"Apache-2.0",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/suhail-md.git"
+      "url": "git+https://github.com/Fred1e/fredi_md.git"
    },
-   "bugs": { "url": "https://github.com/SuhailTechInfo/suhail-md/issues" },
-   "homepage": "https://github.com/SuhailTechInfo/suhail-md#readme"
+   "bugs": { "url": "https://github.com/Fred1e/fredi_md/issues" },
+   "homepage": "https://github.com/Fred1e/fredi_md#readme"
 }
