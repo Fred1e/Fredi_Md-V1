@@ -6,8 +6,8 @@
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start . --deep-monitoring --attach --name Fredie || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "start": "pm2 start . --attach --name Fredi",
+            "stop": "pm2 stop Fredi"
    },
    "author": "Fredietech",
    "license" :"Apache-2.0",
