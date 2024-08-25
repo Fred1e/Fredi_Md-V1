@@ -1,8 +1,8 @@
 {
   "name": "FrediMdsmd@1.3.1",
-  "description": "I am Fredi-Adams-md Whatsapp Chuddy Buddy built in NodeJs to m https://www.youtube.com/@freeonlinetvT1",
-  "logo": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg",ake experience better\n\t if Any Problem : https://www.youtube.com/@freeonlinetvT1",
-  "logo": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg",
+  "description": "I am Fredi_md Whatsapp Chuddy Buddy built in NodeJs to m https://www.youtube.com/@freeonlinetvT1",
+  "logo": "https://telegra.ph/file/63d832ae9db153376e575.jpg",ake experience better\n\t if Any Problem : https://www.youtube.com/@freeonlinetvT1",
+  "logo": "https://telegra.ph/file/63d832ae9db153376e575.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -33,7 +33,7 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg,https://telegra.ph/file/e5319d5a968ab7759cefd.mp4"
+      "value": "https://telegra.ph/file/63d832ae9db153376e575.jpg,https://telegra.ph/file/e5319d5a968ab7759cefd.mp4"
     }, 
     "TZ": 
       "description": "put TIME_ZONE according to your location",
