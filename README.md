@@ -20,16 +20,16 @@
 </p>
   <p align="center">
 <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/fredi_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_md?&style=social"></a>
-<a href="https://github.com/Fred1e/fredi_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_md?style=social"></a>
-<a href="https://github.com/Fred1e/fredi_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_md?label=Watching&style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md-v1/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_md-V1?&style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_md-V1?style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_md-V1?label=Watching&style=social"></a>
 
-  <a aria-label="Fredi_md is free to use" href="https://github.com/Fred1e/Fredi_md" target="_blank">
+  <a aria-label="Fredi_md is free to use" href="https://github.com/Fred1e/Fredi_md-V1" target="_blank">
     <img alt="FredieTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Fredi_md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Fredi_md-V1 :: Visitor's Count" /></p>
 
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
@@ -38,12 +38,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Fredi_md"><b>Fredi_md</b></a> Support Deploy On...
+  <a href="https://github.com/Fred1e/Fredi_md-V1"><b>Fredi_md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Fredi_Md-plugin/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/Fred1e/Fredi_Md-V1/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-V1/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -60,16 +60,16 @@
 if scan qr is not working please try using pairing code i am currently working on it
 ---
 1. ***Join us `WhatsApp`channel [`FOLLOW CHANNEL`](https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F)***
-2. ***Fork repo here [`TAP TO FORK`](https://github.com/Fred1e/FREDI_MD/fork)***
+2. ***Fork repo here [`TAP TO FORK`](https://github.com/Fred1e/FREDI_MD-V1/fork)***
 3.  ***Get `SESSION ID` by [`SCANING QR`](https://fredietech.onrender.com)***
 4. ***And [`PARING CODE`](https://fredietech.onrender.com)***
 5.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD/tree/main)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/FREDI_MD)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD-V1/tree/main)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/FREDI_MD-V1)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/FREDI_MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=fredi_md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
-11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/FREDI_MD/tree/main)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/FREDI_MD-V1&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=fredi_md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/FREDI_MD-V1/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -158,5 +158,5 @@ The WhatsApp Bot FREDI_MD is released under the [MIT License](https://opensource
 - [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-★THANK YOU GOD FOR THAT MOMENT🙏. ©
+★THANK YOU GOD FOR THAT MOMENT🙏. ©frediezra info
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
